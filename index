@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CRUD Web App</title>
+</head>
+<body>
+  <h1>CRUD Web App</h1>
+  <ul id="items-list"></ul>
+  <input type="text" id="item-input" placeholder="Enter item">
+  <button onclick="addItem()">Add Item</button>
+  <script src="your_script.js"></script>
+</body>
+</html>
